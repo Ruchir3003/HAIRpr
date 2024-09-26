@@ -2,6 +2,16 @@
 
 This repository contains the standalone Python script `HAIRpred.py`.
 
+## Installation 
+
+This Github repository has files which need Git-LFS for installation. To install Git-LFS : 
+
+```bash
+sudo apt-get install git-lfs
+git lfs install
+```
+
+
 ## Requirements
 
 ### Install DSSP
