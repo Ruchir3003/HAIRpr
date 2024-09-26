@@ -14,7 +14,7 @@ git lfs install
 Then, clone this github repository : 
 
 ```bash
-git clone 
+git clone https://github.com/Ruchir3003/HAIRpr.git
 ```
 
 
