@@ -11,6 +11,12 @@ sudo apt-get install git-lfs
 git lfs install
 ```
 
+Then, clone this github repository : 
+
+```bash
+git clone 
+```
+
 
 ## Requirements
 
